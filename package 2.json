@@ -1,0 +1,24 @@
+{
+  "name": "nclexmaternityreview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d . -b gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathewmoslow/NCLEXMaternityReview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathewmoslow/NCLEXMaternityReview/issues"
+  },
+  "homepage": "https://mathewmoslow.github.io/NCLEXMaternityReview",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
